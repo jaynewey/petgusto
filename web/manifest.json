@@ -1,6 +1,6 @@
 {
-    "name": "lab7",
-    "short_name": "lab7",
+    "name": "petgusto",
+    "short_name": "petgusto",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

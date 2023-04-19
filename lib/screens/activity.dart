@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_map/plugin_api.dart';
-import 'package:lab7/widgets/timeline.dart';
+import 'package:petgusto/widgets/timeline.dart';
 import 'package:latlong2/latlong.dart';
 import '../widgets/event.dart';
 

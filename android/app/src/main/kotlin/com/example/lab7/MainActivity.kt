@@ -1,4 +1,4 @@
-package com.example.lab7
+package com.example.petgusto
 
 import io.flutter.embedding.android.FlutterActivity
 
